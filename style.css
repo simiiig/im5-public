@@ -83,9 +83,9 @@ h2 {
 .h2titlesuche::before {
     content: "";
     position: absolute;
-    left: 107px;
+    left: 96px;
     bottom: 4px;
-    width: 211px;
+    width: 183px;
     height: 7px;
     transform: skew(-12deg) translateX(-50%);
     background: var(--yellow-orange);
